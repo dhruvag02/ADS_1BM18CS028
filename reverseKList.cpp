@@ -1,3 +1,5 @@
+// Reverse every K nodes of a linked list
+
 #include<iostream>
 using namespace std;
 
@@ -75,3 +77,58 @@ int main(){
     display(head);
     return 0;
 }
+
+
+TEST 1
+
+Enter data to be inserted
+1 2 3 4 5
+Enter data to be inserted
+Enter data to be inserted
+Enter data to be inserted
+Enter data to be inserted
+Before
+5 4 3 2 1 After
+4 5 2 3 1
+
+Enter data to be inserted
+5
+Enter data to be inserted
+4
+Enter data to be inserted
+3
+Enter data to be inserted
+2
+Enter data to be inserted
+1
+Before
+1 2 3 4 5 After
+2 1 4 3 5
+
+    
+TEST 2
+
+Enter Values of n and k
+9
+3
+Enter data to be inserted
+9
+Enter data to be inserted
+8
+Enter data to be inserted
+7
+Enter data to be inserted
+6
+Enter data to be inserted
+5
+Enter data to be inserted
+4
+Enter data to be inserted
+3
+Enter data to be inserted
+2
+Enter data to be inserted
+1
+Before
+1 2 3 4 5 6 7 8 9 After
+3 2 1 6 5 4 9 8 7 
