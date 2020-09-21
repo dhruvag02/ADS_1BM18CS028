@@ -70,3 +70,7 @@ int main(){
         cout<<"NO"<<endl;
     return 0;   
 }
+
+PS C:\Users\DHRUV AGRAWAL\ADS028> .\a.exe
+YES
+NO
