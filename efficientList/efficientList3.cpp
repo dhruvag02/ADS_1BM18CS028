@@ -130,3 +130,84 @@ int main(){
     display(&head);
     return 0;
 }
+
+
+Enter number of values to be inserted
+5
+Enter value to be inserted
+1
+Enter value to be inserted
+2
+Enter value to be inserted
+3
+Enter value to be inserted
+4
+Enter value to be inserted
+5
+Values are displayed
+1
+2
+3
+Values after deletion at front are displayed
+2
+3
+4
+5
+Values after deletion at end are displayed
+2
+3
+4
+
+
+Enter number of values to be inserted
+10
+Enter value to be inserted
+1
+Enter value to be inserted
+2
+Enter value to be inserted
+3
+Enter value to be inserted
+4
+Enter value to be inserted
+5
+Enter value to be inserted
+6
+Enter value to be inserted
+7
+Enter value to be inserted
+8
+Enter value to be inserted
+9
+Enter value to be inserted
+10
+Values are displayed
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Values after deletion at front are displayed
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Values after deletion at end are displayed
+2
+3
+4
+5
+6
+7
+8
+9
