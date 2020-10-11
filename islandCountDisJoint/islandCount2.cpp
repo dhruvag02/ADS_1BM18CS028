@@ -145,3 +145,27 @@ int main(){
     cout<<"Number of Islands: "<<countIslands(a,n)<<endl;
     return 0;
 }
+
+
+
+
+Enter dimansion of matrix
+5
+Enter Values   
+Enter in row: 0
+1 1 0 0 0
+Enter in row: 1
+0 1 0 0 1
+Enter in row: 2
+1 0 0 1 1
+Enter in row: 3
+0 0 0 0 0
+Enter in row: 4
+1 0 1 0 1
+Entered Matrix is printed
+1 1 0 0 0
+0 1 0 0 1
+1 0 0 1 1
+0 0 0 0 0
+1 0 1 0 1
+Number of Islands: 0 // Output is coming wrong
