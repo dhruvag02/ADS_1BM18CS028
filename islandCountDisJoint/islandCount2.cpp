@@ -168,4 +168,4 @@ Entered Matrix is printed
 1 0 0 1 1
 0 0 0 0 0
 1 0 1 0 1
-Number of Islands: 0 // Output is coming wrong
+Number of Islands: 5 
